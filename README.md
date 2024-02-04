@@ -1,2 +1,1 @@
-# google-data-analytics
- Google Data Analytics Capstone Project: How Does a Bike-Share Navigate Speedy Success?
+# Case Study: How does a bike - Share navigate speedy success?
